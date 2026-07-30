@@ -1,0 +1,16 @@
+{
+  "name": "MONEY LAND 遊樂園",
+  "short_name": "Money Land",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#8fe1ff",
+  "theme_color": "#86d7ff",
+  "lang": "zh-TW",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
